@@ -7,3 +7,8 @@
 2007-2021 Kendriya Vidyalaya Bhandara, Mh (<https://bhandaraof.kvs.ac.in/>)
 
 2021-till date Chitkara University, Punjab (<https://www.chitkara.edu.in/>)
+
+## Research Interest
+
+Machine Learning
+Data Analytics
